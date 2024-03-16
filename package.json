@@ -6,6 +6,6 @@
     "csurf": "^1.11.0",
     "express": "*",
     "express-session": "^1.17.3",
-    "mongoose": "^8.0.0"
+    "mongoose": "^8.2.2"
   }
 }
